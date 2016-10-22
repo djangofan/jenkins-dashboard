@@ -1,0 +1,9 @@
+{
+  "jenkinsBaseUrl": "http://localhost:8080",
+  "builds": [
+    {"id": "Job4", "server": "Jenkins"},
+    {"id": "Job1", "server": "Jenkins"},
+    {"id": "Job2", "server": "Jenkins"},
+    {"id": "Job3", "server": "Jenkins"}
+  ]
+}
